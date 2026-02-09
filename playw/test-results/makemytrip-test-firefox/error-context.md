@@ -1,0 +1,1473 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - img "Make My Trip" [ref=e8] [cursor=pointer]
+        - list [ref=e9]:
+          - listitem [ref=e10] [cursor=pointer]:
+            - generic [ref=e13]:
+              - paragraph [ref=e14]: List Your Property
+              - paragraph [ref=e15]: Grow your business!
+          - listitem [ref=e16] [cursor=pointer]:
+            - img "myBizLogo" [ref=e18]
+            - generic [ref=e19]:
+              - paragraph [ref=e20]: Introducing myBiz
+              - paragraph [ref=e21]: Business Travel Solution
+          - listitem [ref=e22] [cursor=pointer]:
+            - generic "Wishlist" [ref=e24]
+            - generic [ref=e25]:
+              - paragraph [ref=e26]: Wishlist
+              - paragraph [ref=e27]: Save favourites
+          - listitem [ref=e28] [cursor=pointer]:
+            - generic [ref=e31]:
+              - paragraph [ref=e32]: My Trips
+              - paragraph [ref=e33]: Manage your bookings
+          - listitem [ref=e34] [cursor=pointer]:
+            - paragraph [ref=e39]: Login or Create Account
+          - listitem [ref=e40] [cursor=pointer]:
+            - generic [ref=e41]:
+              - generic [ref=e43]: INR
+              - text: "|"
+              - generic [ref=e44]: English
+      - navigation [ref=e48]:
+        - list [ref=e49]:
+          - listitem [ref=e50]:
+            - link "Flights" [ref=e52] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/flights/
+              - generic [ref=e55]: Flights
+          - listitem [ref=e56]:
+            - link "Hotels" [ref=e58] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/hotels/
+              - generic [ref=e61]: Hotels
+          - listitem [ref=e62]:
+            - link "Villas & Homestays" [ref=e64] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/homestays/
+              - generic [ref=e67]: Villas & Homestays
+          - listitem [ref=e68]:
+            - link "Holiday Packages" [ref=e70] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/holidays-india/
+              - generic [ref=e73]: Holiday Packages
+          - listitem [ref=e74]:
+            - link "Trains" [ref=e76] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/railways/
+              - generic [ref=e79]: Trains
+          - listitem [ref=e80]:
+            - link "Buses" [ref=e82] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/bus-tickets/
+              - generic [ref=e85]: Buses
+          - listitem [ref=e86]:
+            - link "Cabs" [ref=e88] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/cabs/
+              - generic [ref=e91]: Cabs
+          - listitem [ref=e92]:
+            - link "Tours & Attractions" [ref=e94] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/toursandattractions
+              - generic [ref=e97]: Tours & Attractions
+            - generic [ref=e98]: new
+          - listitem [ref=e99]:
+            - link "Visa" [ref=e101] [cursor=pointer]:
+              - /url: //visa.makemytrip.com/
+              - generic [ref=e104]: Visa
+          - listitem [ref=e105]:
+            - link "Cruise" [ref=e107] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/cruise/
+              - generic [ref=e110]: Cruise
+            - generic [ref=e111]: new
+          - listitem [ref=e112]:
+            - link "Forex Card & Currency" [ref=e114] [cursor=pointer]:
+              - /url: https://www.makemytrip.com/forex/
+              - generic [ref=e117]: Forex Card & Currency
+          - listitem [ref=e118]:
+            - link "Travel Insurance" [ref=e120] [cursor=pointer]:
+              - /url: https://insurance.makemytrip.com/insurance/common-landing
+              - generic [ref=e123]: Travel Insurance
+    - generic [ref=e126]:
+      - generic [ref=e130]:
+        - generic [ref=e131]:
+          - list [ref=e132]:
+            - listitem [ref=e133] [cursor=pointer]: One Way
+            - listitem [ref=e135] [cursor=pointer]: Round Trip
+            - listitem [ref=e137] [cursor=pointer]: Multi City
+          - paragraph [ref=e140]:
+            - text: Book
+            - link "International" [ref=e141] [cursor=pointer]:
+              - /url: /international-flights/
+            - text: and
+            - link "Domestic Flights" [ref=e142] [cursor=pointer]:
+              - /url: /flights/
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e147]: From
+              - textbox "From DEL, Delhi Airport India" [ref=e148]: Delhi
+              - paragraph [ref=e149]:
+                - generic [ref=e150]: DEL, Delhi Airport India
+            - generic [ref=e151] [cursor=pointer]: ⇌
+            - generic [ref=e153] [cursor=pointer]:
+              - generic [ref=e154]: To
+              - textbox "To BLR, Bengaluru International Airport India" [ref=e155]: Bengaluru
+              - paragraph [ref=e156]:
+                - generic [ref=e157]: BLR, Bengaluru International Airport India
+            - generic [ref=e159] [cursor=pointer]:
+              - generic [ref=e160]: Departure
+              - textbox "Departure 10 Feb'26 Tuesday" [ref=e161]: Monday, 9 Feb 2026
+              - paragraph [ref=e162]:
+                - generic [ref=e163]: "10"
+                - text: Feb'26
+              - paragraph [ref=e164]: Tuesday
+            - generic [ref=e167] [cursor=pointer]:
+              - generic [ref=e168]: Return
+              - paragraph [ref=e169]: Tap to add a return date for bigger discounts
+            - generic [ref=e171] [cursor=pointer]:
+              - generic [ref=e172]: Travellers & Class
+              - textbox "Travellers & Class 1 Traveller Economy/Premium Economy" [ref=e173]: 0 Infant, 0 Adult, 1 Children
+              - paragraph [ref=e174]:
+                - generic [ref=e175]:
+                  - generic [ref=e176]: "1"
+                  - text: Traveller
+              - paragraph [ref=e177]: Economy/Premium Economy
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - generic [ref=e181]: SPECIAL FARES
+              - generic [ref=e183]:
+                - generic [ref=e186] [cursor=pointer]:
+                  - generic [ref=e187]: Regular
+                  - generic [ref=e188]: Regular fares
+                - generic [ref=e189]:
+                  - generic [ref=e191] [cursor=pointer]:
+                    - generic [ref=e192]: Travelling for work?
+                    - generic [ref=e194]: Upto 10% Extra Savings !
+                  - generic [ref=e195]:
+                    - generic [ref=e198]:
+                      - paragraph [ref=e199]:
+                        - generic [ref=e200]: MMT WORK
+                      - paragraph [ref=e201]:
+                        - generic [ref=e202]: Lower cancellation/date change fees, free seat/meal on select flights & more
+                    - generic [ref=e203]:
+                      - paragraph [ref=e204]:
+                        - generic [ref=e205]: Valid GST Number mandatory
+                      - paragraph
+                    - paragraph
+                - generic [ref=e208] [cursor=pointer]:
+                  - generic [ref=e209]: Student
+                  - generic [ref=e210]: Extra discounts/baggage
+                - generic [ref=e213] [cursor=pointer]:
+                  - generic [ref=e214]: Armed Forces
+                  - generic [ref=e215]: Up to ₹ 600 off
+                - generic [ref=e218] [cursor=pointer]:
+                  - generic [ref=e219]: Senior Citizen
+                  - generic [ref=e220]: Up to ₹ 600 off
+                - generic [ref=e223] [cursor=pointer]:
+                  - generic [ref=e224]: Doctor and Nurses
+                  - generic [ref=e225]: Up to ₹ 600 off
+            - button "Flight Tracker" [ref=e228] [cursor=pointer]:
+              - generic [ref=e232]: Flight Tracker
+          - checkbox "<font color='#000000'>Add FlexiFly</font>" [ref=e236] [cursor=pointer]:
+            - generic [ref=e237]:
+              - checkbox [ref=e240]
+              - generic [ref=e243]:
+                - generic [ref=e245]: Add FlexiFly
+                - generic [ref=e247]: 100% refund on cancellation or Zero date change charges
+              - generic [ref=e249]: View Details
+          - paragraph [ref=e252]:
+            - generic [ref=e253] [cursor=pointer]: Search
+      - main [ref=e254]:
+        - main [ref=e255]:
+          - generic [ref=e256]:
+            - generic [ref=e261]: Explore More
+            - list [ref=e266]:
+              - listitem [ref=e267] [cursor=pointer]:
+                - img "Where2Go_image" [ref=e269]
+                - paragraph [ref=e271]:
+                  - generic [ref=e272]: Where2Go
+              - listitem [ref=e273] [cursor=pointer]:
+                - img "How2Go_image" [ref=e275]
+                - generic [ref=e276]:
+                  - paragraph [ref=e277]:
+                    - generic [ref=e278]: How2Go
+                    - generic [ref=e279]: new
+                  - generic [ref=e280]: Find routes to anywhere
+              - listitem [ref=e281] [cursor=pointer]:
+                - img "<span class='latoBold blackText font14'>MakeMyTrip ICICI Credit Card</span>_image" [ref=e283]
+                - generic [ref=e284]:
+                  - paragraph [ref=e285]:
+                    - generic [ref=e286]: MakeMyTrip ICICI Credit Card
+                  - generic [ref=e287]: Never-expiring rewards & big benefits
+              - listitem [ref=e288] [cursor=pointer]:
+                - img "MICE_image" [ref=e290]
+                - generic [ref=e291]:
+                  - paragraph [ref=e292]:
+                    - generic [ref=e293]: MICE
+                  - generic [ref=e294]: Offsites, Events & Meetings
+              - listitem [ref=e295] [cursor=pointer]:
+                - img "Gift Cards_image" [ref=e297]
+                - paragraph [ref=e299]:
+                  - generic [ref=e300]: Gift Cards
+          - generic [ref=e301]:
+            - generic [ref=e302]:
+              - heading "Offers" [level=2] [ref=e303]
+              - list [ref=e305]:
+                - listitem [ref=e306]:
+                  - generic [ref=e308] [cursor=pointer]: All Offers
+                - listitem [ref=e309]:
+                  - generic [ref=e311] [cursor=pointer]: Bank Offers
+                - listitem [ref=e312]:
+                  - generic [ref=e314] [cursor=pointer]: Flights
+                - listitem [ref=e315]:
+                  - generic [ref=e317] [cursor=pointer]: Hotels
+                - listitem [ref=e318]:
+                  - generic [ref=e320] [cursor=pointer]: Holidays
+                - listitem [ref=e321]:
+                  - generic [ref=e323] [cursor=pointer]: Trains
+                - listitem [ref=e324]:
+                  - generic [ref=e326] [cursor=pointer]: Cabs
+                - listitem [ref=e327]:
+                  - generic [ref=e329] [cursor=pointer]: Bus
+                - listitem [ref=e330]:
+                  - generic [ref=e332] [cursor=pointer]: Forex
+                - listitem [ref=e333]:
+                  - generic [ref=e335] [cursor=pointer]: MORE
+              - generic [ref=e337] [cursor=pointer]: View All
+            - generic [ref=e340]:
+              - button "Previous" [ref=e341] [cursor=pointer]
+              - generic [ref=e343]:
+                - generic [ref=e344]:
+                  - generic [ref=e347] [cursor=pointer]:
+                    - generic [ref=e352]:
+                      - paragraph [ref=e354]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e355]: T&C's Apply
+                      - paragraph [ref=e356]: "FOR THOSE WHO TRAVEL WITH THEIR HEARTS:"
+                      - paragraph [ref=e358]: Up to 45% OFF* on flights, stays, packages, cabs & more
+                    - generic [ref=e361]: BOOK NOW
+                  - generic [ref=e364] [cursor=pointer]:
+                    - generic [ref=e369]:
+                      - paragraph [ref=e371]:
+                        - text: DOM HOTELS
+                        - generic [ref=e372]: T&C's Apply
+                      - paragraph [ref=e373]: Here's Up to 45% OFF*
+                      - paragraph [ref=e375]: on hotels in India
+                    - generic [ref=e378]: BOOK NOW
+                - generic [ref=e379]:
+                  - generic [ref=e382] [cursor=pointer]:
+                    - generic [ref=e387]:
+                      - paragraph [ref=e389]:
+                        - text: DOM FLIGHTS
+                        - generic [ref=e390]: T&C's Apply
+                      - paragraph [ref=e391]: "Grab NOW: Up to ₹1000 instant discount on Domestic..."
+                      - paragraph [ref=e393]: Valid on ICICI Bank Credit Cards and Credit Cards EMI.
+                    - generic [ref=e394]:
+                      - generic [ref=e395]: Offer ends in 02h:37m
+                      - generic [ref=e396]:
+                        - generic [ref=e397]: "Code: FLYMON"
+                        - generic [ref=e398]: View Details
+                  - generic [ref=e401] [cursor=pointer]:
+                    - generic [ref=e406]:
+                      - paragraph [ref=e408]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e409]: T&C's Apply
+                      - paragraph [ref=e410]: Up to ₹5000 instant discount
+                      - paragraph [ref=e412]: on International Flights!
+                    - generic [ref=e413]:
+                      - generic [ref=e414]: Offer ends in 02h:37m
+                      - generic [ref=e416]: View Details
+                - generic [ref=e417]:
+                  - generic [ref=e420] [cursor=pointer]:
+                    - generic [ref=e425]:
+                      - paragraph [ref=e427]:
+                        - text: DOM HOTELS
+                        - generic [ref=e428]: T&C's Apply
+                      - paragraph [ref=e429]: Grab Up to 15% Instant Discount* on Domestic Hotel...
+                      - paragraph [ref=e431]: with ICICI Bank Credit Cards and Credit Card EMI.
+                    - generic [ref=e433]:
+                      - generic [ref=e434]: "Code: ICICILUXURY"
+                      - generic [ref=e435]: View Details
+                  - generic [ref=e438] [cursor=pointer]:
+                    - generic [ref=e443]:
+                      - paragraph [ref=e445]:
+                        - text: INTL HOTELS
+                        - generic [ref=e446]: T&C's Apply
+                      - paragraph [ref=e447]: Grab Upto 15% OFF* on 3, 4 & 5-Star StaysUp to 15%...
+                      - paragraph [ref=e449]: with ICICI Bank Credit Cards and Credit Card EMI.
+                    - generic [ref=e451]:
+                      - generic [ref=e452]: "Code: ICICILUXURYINT"
+                      - generic [ref=e453]: View Details
+                - generic [ref=e454]:
+                  - generic [ref=e457] [cursor=pointer]:
+                    - generic [ref=e461]:
+                      - paragraph [ref=e463]:
+                        - text: INTL HOTELS
+                        - generic [ref=e464]: T&C's Apply
+                      - paragraph [ref=e465]: Here's Up to 40% OFF*
+                      - paragraph [ref=e467]: on international hotels
+                    - generic [ref=e470]: BOOK NOW
+                  - generic [ref=e473] [cursor=pointer]:
+                    - generic [ref=e477]:
+                      - paragraph [ref=e479]:
+                        - text: DOM FLIGHTS
+                        - generic [ref=e480]: T&C's Apply
+                      - paragraph [ref=e481]: Here’s FLAT 12% OFF*
+                      - paragraph [ref=e483]: on domestic flights.
+                    - generic [ref=e486]: BOOK NOW
+                - generic [ref=e487]:
+                  - generic [ref=e490] [cursor=pointer]:
+                    - generic [ref=e494]:
+                      - paragraph [ref=e496]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e497]: T&C's Apply
+                      - paragraph [ref=e498]: Here's Up to 12% OFF*
+                      - paragraph [ref=e500]: on international flights.
+                    - generic [ref=e503]: BOOK NOW
+                  - generic [ref=e506] [cursor=pointer]:
+                    - generic [ref=e510]:
+                      - paragraph [ref=e512]:
+                        - text: HOLIDAYS
+                        - generic [ref=e513]: T&C's Apply
+                      - paragraph [ref=e514]: Here's Up to 35% OFF*
+                      - paragraph [ref=e516]: on holiday packages.
+                    - generic [ref=e519]: BOOK NOW
+                - generic [ref=e520]:
+                  - generic [ref=e523] [cursor=pointer]:
+                    - generic [ref=e527]:
+                      - paragraph [ref=e529]:
+                        - text: BUS
+                        - generic [ref=e530]: T&C's Apply
+                      - paragraph [ref=e531]: Here's FLAT 10% OFF*
+                      - paragraph [ref=e533]: on bus tickets
+                    - generic [ref=e536]: BOOK NOW
+                  - generic [ref=e539] [cursor=pointer]:
+                    - generic [ref=e543]:
+                      - paragraph [ref=e545]:
+                        - text: CABS
+                        - generic [ref=e546]: T&C's Apply
+                      - paragraph [ref=e547]: Here's Up to ₹1,000 OFF*
+                      - paragraph [ref=e549]: on outstation cabs
+                    - generic [ref=e552]: BOOK NOW
+                - generic [ref=e553]:
+                  - generic [ref=e556] [cursor=pointer]:
+                    - generic [ref=e560]:
+                      - paragraph [ref=e562]:
+                        - text: CABS
+                        - generic [ref=e563]: T&C's Apply
+                      - paragraph [ref=e564]: Here's FLAT 5% OFF*
+                      - paragraph [ref=e566]: on airport cabs
+                    - generic [ref=e569]: BOOK NOW
+                  - generic [ref=e572] [cursor=pointer]:
+                    - generic [ref=e576]:
+                      - paragraph [ref=e578]:
+                        - text: CABS
+                        - generic [ref=e579]: T&C's Apply
+                      - paragraph [ref=e580]: Here's FLAT 5% OFF*
+                      - paragraph [ref=e582]: on hourly rental cabs
+                    - generic [ref=e585]: BOOK NOW
+                - generic [ref=e586]:
+                  - generic [ref=e589] [cursor=pointer]:
+                    - generic [ref=e593]:
+                      - paragraph [ref=e595]:
+                        - text: RAILS
+                        - generic [ref=e596]: T&C's Apply
+                      - paragraph [ref=e597]: Get Up to ₹ 500 OFF* on Alternate Trip Plan
+                      - paragraph [ref=e599]: for confirmed train tickets or 3x refund
+                    - generic [ref=e602]: BOOK NOW
+                  - generic [ref=e605] [cursor=pointer]:
+                    - generic [ref=e609]:
+                      - paragraph [ref=e611]:
+                        - text: ACTIVITIES
+                        - generic [ref=e612]: T&C's Apply
+                      - paragraph [ref=e613]: Here's FLAT 20% OFF*
+                      - paragraph [ref=e615]: on tours & attractions
+                    - generic [ref=e618]: BOOK NOW
+                - generic [ref=e619]:
+                  - generic [ref=e622] [cursor=pointer]:
+                    - generic [ref=e626]:
+                      - paragraph [ref=e628]:
+                        - text: VISA
+                        - generic [ref=e629]: T&C's Apply
+                      - paragraph [ref=e630]: Here's Tours & Attractions Gift Card
+                      - paragraph [ref=e632]: worth ₹250 on all visa bookings
+                    - generic [ref=e635]: BOOK NOW
+                  - generic [ref=e638] [cursor=pointer]:
+                    - generic [ref=e642]:
+                      - paragraph [ref=e644]:
+                        - text: DOM HOTELS
+                        - generic [ref=e645]: T&C's Apply
+                      - paragraph [ref=e646]: "Your Chance to Win a Free Vacay:"
+                      - paragraph [ref=e648]: Vote & Win Now also get guaranteed discounts
+                    - generic [ref=e651]: View Details
+                - generic [ref=e652]:
+                  - generic [ref=e655] [cursor=pointer]:
+                    - generic [ref=e659]:
+                      - paragraph [ref=e661]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e662]: T&C's Apply
+                      - paragraph [ref=e663]: "WATCH CRICKET’S BIGGEST SEASON LIVE:"
+                      - paragraph [ref=e665]: and head to your favourite match destination
+                    - generic [ref=e668]: BOOK NOW
+                  - generic [ref=e671] [cursor=pointer]:
+                    - generic [ref=e675]:
+                      - paragraph [ref=e677]:
+                        - text: DOM HOTELS
+                        - generic [ref=e678]: T&C's Apply
+                      - paragraph [ref=e679]: "HEAD TO INDIA’S SKI CAPITAL:"
+                      - paragraph [ref=e681]: Grab Up to 30% OFF* on Stays
+                    - generic [ref=e684]: BOOK NOW
+                - generic [ref=e685]:
+                  - generic [ref=e688] [cursor=pointer]:
+                    - generic [ref=e692]:
+                      - paragraph [ref=e694]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e695]: T&C's Apply
+                      - paragraph [ref=e696]: Up to 25% OFF* + INTEREST-FREE* EMI
+                      - paragraph [ref=e698]: on flights, hotels & holiday packages.
+                    - generic [ref=e701]: View Details
+                  - generic [ref=e704] [cursor=pointer]:
+                    - generic [ref=e708]:
+                      - paragraph [ref=e710]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e711]: T&C's Apply
+                      - paragraph [ref=e712]: "LAUNCHED: Direct Flights by IndiGo"
+                      - paragraph [ref=e714]: connecting Chennai & Kuwait!
+                    - generic [ref=e717]: Book Now
+                - generic [ref=e718]:
+                  - generic [ref=e721] [cursor=pointer]:
+                    - generic [ref=e725]:
+                      - paragraph [ref=e727]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e728]: T&C's Apply
+                      - paragraph [ref=e729]: "LIVE NOW: Sale by AirAsia!"
+                      - paragraph [ref=e731]: Book Thailand flights with one-way fares starting @ ₹7,499.
+                    - generic [ref=e734]: Book Now
+                  - generic [ref=e737] [cursor=pointer]:
+                    - generic [ref=e741]:
+                      - paragraph [ref=e743]:
+                        - text: DOM HOTELS
+                        - generic [ref=e744]: T&C's Apply
+                      - paragraph [ref=e745]: "FOR YOUR VALENTINE’S GETAWAY:"
+                      - paragraph [ref=e747]: Grab up to 40% OFF* on entire villas & homestays!
+                    - generic [ref=e750]: View Details
+                - generic [ref=e751]:
+                  - generic [ref=e754] [cursor=pointer]:
+                    - generic [ref=e758]:
+                      - paragraph [ref=e760]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e761]: T&C's Apply
+                      - paragraph [ref=e762]: "LIVE NOW: Exclusive Fares by Singapore Airlines"
+                      - paragraph [ref=e764]: to 80+ Destinations.
+                    - generic [ref=e767]: Book Now
+                  - generic [ref=e770] [cursor=pointer]:
+                    - generic [ref=e774]:
+                      - paragraph [ref=e776]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e777]: T&C's Apply
+                      - paragraph [ref=e778]: "LIVE NOW: Sale by Singapore Airlines"
+                      - paragraph [ref=e780]: on Flights to Select* Destinations in Australia
+                    - generic [ref=e783]: Book Now
+                - generic [ref=e784]:
+                  - generic [ref=e787] [cursor=pointer]:
+                    - generic [ref=e791]:
+                      - paragraph [ref=e793]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e794]: T&C's Apply
+                      - paragraph [ref=e795]: "Epic Deals for You:"
+                      - paragraph [ref=e797]: Grab Up to 15% OFF* on Flights & Hotels.
+                    - generic [ref=e800]: View Details
+                  - generic [ref=e803] [cursor=pointer]:
+                    - generic [ref=e807]:
+                      - paragraph [ref=e809]:
+                        - text: DOM FLIGHTS
+                        - generic [ref=e810]: T&C's Apply
+                      - paragraph [ref=e811]: "WITH VISA SIGNATURE CREDIT CARDS:"
+                      - paragraph [ref=e813]: Enjoy Exclusive Benefits
+                    - generic [ref=e815]:
+                      - generic [ref=e816]: "Code: VISASIGNATURE"
+                      - generic [ref=e817]: View Details
+                - generic [ref=e818]:
+                  - generic [ref=e821] [cursor=pointer]:
+                    - generic [ref=e825]:
+                      - paragraph [ref=e827]:
+                        - generic [ref=e828]: T&C's Apply
+                      - paragraph [ref=e829]: Get Up to INR 7500 Cashback* on Forex with Us!
+                      - paragraph [ref=e831]: Also enjoy same-day doorstep delivery.
+                    - generic [ref=e834]: Explore Now
+                  - generic [ref=e837] [cursor=pointer]:
+                    - generic [ref=e841]:
+                      - paragraph [ref=e843]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e844]: T&C's Apply
+                      - paragraph [ref=e845]: "Introducing ‘Track Your Flight’:"
+                      - paragraph [ref=e847]: Get real-time updates on schedules, aircraft details, baggage information & more.
+                    - generic [ref=e850]: Book Now
+                - generic [ref=e851]:
+                  - generic [ref=e854] [cursor=pointer]:
+                    - generic [ref=e858]:
+                      - paragraph [ref=e860]:
+                        - text: DOM FLIGHTS
+                        - generic [ref=e861]: T&C's Apply
+                      - paragraph [ref=e862]: Travel Across the Country with Up to 15% OFF*
+                      - paragraph [ref=e864]: on Domestic Flights & Hotels.
+                    - generic [ref=e867]: Book Now
+                  - generic [ref=e870] [cursor=pointer]:
+                    - generic [ref=e874]:
+                      - paragraph [ref=e876]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e877]: T&C's Apply
+                      - paragraph [ref=e878]: Get Up to 35% OFF* + Interest-free EMI
+                      - paragraph [ref=e880]: on flights, hotels & holiday packages for your next refreshing break.
+                    - generic [ref=e883]: Book Now
+                - generic [ref=e884]:
+                  - generic [ref=e887] [cursor=pointer]:
+                    - generic [ref=e891]:
+                      - paragraph [ref=e893]:
+                        - generic [ref=e894]: T&C's Apply
+                      - paragraph [ref=e895]: "NEW: Zero Markup Single Currency Forex Card!"
+                      - paragraph [ref=e897]: Zero cross-currency fees | FREE ATM withdrawals | Same-day delivery
+                    - generic [ref=e900]: Explore Now
+                  - generic [ref=e903] [cursor=pointer]:
+                    - generic [ref=e907]:
+                      - paragraph [ref=e909]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e910]: T&C's Apply
+                      - paragraph [ref=e911]: Travel All Around the World with Up to 25% OFF*
+                      - paragraph [ref=e913]: on Flights and Hotels.
+                    - generic [ref=e916]: Book Now
+                - generic [ref=e917]:
+                  - generic [ref=e920] [cursor=pointer]:
+                    - generic [ref=e924]:
+                      - paragraph [ref=e926]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e927]: T&C's Apply
+                      - paragraph [ref=e928]: Avail Interest-free EMI* + Up to 35% OFF*
+                      - paragraph [ref=e930]: on flights, hotels & holiday packages in India & abroad.
+                    - generic [ref=e933]: Book Now
+                  - generic [ref=e936] [cursor=pointer]:
+                    - generic [ref=e940]:
+                      - paragraph [ref=e942]:
+                        - generic [ref=e943]: T&C's Apply
+                      - paragraph [ref=e944]: "NEW: Lowest Forex Exchange Rates Guaranteed*."
+                      - paragraph [ref=e946]: We’ll pay you 2X the differential amount if you find a cheaper rate online.
+                    - generic [ref=e949]: Explore Now
+                - generic [ref=e950]:
+                  - generic [ref=e953] [cursor=pointer]:
+                    - generic [ref=e957]:
+                      - paragraph [ref=e959]:
+                        - generic [ref=e960]: T&C's Apply
+                      - paragraph [ref=e961]: "AVAIL NOW: Same-Day Doorstep Delivery of Forex!"
+                      - paragraph [ref=e963]: Valid for Multicurrency Forex Card and foreign currency notes.
+                    - generic [ref=e966]: Explore Now
+                  - generic [ref=e969] [cursor=pointer]:
+                    - generic [ref=e973]:
+                      - paragraph [ref=e975]:
+                        - text: CABS
+                        - generic [ref=e976]: T&C's Apply
+                      - paragraph [ref=e977]: Explore Top Routes for Outstation Cabs
+                      - paragraph [ref=e979]: Starting @ ₹10/km* & book reliable journeys with us!
+                    - generic [ref=e982]: BOOK NOW
+                - generic [ref=e983]:
+                  - generic [ref=e986] [cursor=pointer]:
+                    - generic [ref=e990]:
+                      - paragraph [ref=e992]:
+                        - text: BUS
+                        - generic [ref=e993]: T&C's Apply
+                      - paragraph [ref=e994]: Grab FLAT 8% OFF* on Buses
+                      - paragraph [ref=e996]: from Delhi, Uttar Pradesh & more
+                    - generic [ref=e998]:
+                      - generic [ref=e999]: "Code: MMTNORTH"
+                      - generic [ref=e1000]: BOOK NOW
+                  - generic [ref=e1003] [cursor=pointer]:
+                    - generic [ref=e1007]:
+                      - paragraph [ref=e1009]:
+                        - text: RAILS
+                        - generic [ref=e1010]: T&C's Apply
+                      - paragraph [ref=e1011]: Aadhaar-based Authentication on IRCTC’s Platform
+                      - paragraph [ref=e1013]: Now Mandatory for Tatkal Train Bookings.
+                    - generic [ref=e1016]: BOOK NOW
+                - generic [ref=e1017]:
+                  - generic [ref=e1020] [cursor=pointer]:
+                    - generic [ref=e1024]:
+                      - paragraph [ref=e1026]:
+                        - text: RAILS
+                        - generic [ref=e1027]: T&C's Apply
+                      - paragraph [ref=e1028]: Get a Confirmed Ticket or a 3x Refund
+                      - paragraph [ref=e1030]: with our Alternate Trip Plan Feature
+                    - generic [ref=e1033]: Know More
+                  - generic [ref=e1036] [cursor=pointer]:
+                    - generic [ref=e1040]:
+                      - paragraph [ref=e1042]:
+                        - text: RAILS
+                        - generic [ref=e1043]: T&C's Apply
+                      - paragraph [ref=e1044]: "INTRODUCING: Seat Availability Forecast"
+                      - paragraph [ref=e1046]: and Sold-out Alerts for train bookings.
+                    - generic [ref=e1049]: BOOK NOW
+                - generic [ref=e1050]:
+                  - generic [ref=e1053] [cursor=pointer]:
+                    - generic [ref=e1057]:
+                      - paragraph [ref=e1059]:
+                        - text: CABS
+                        - generic [ref=e1060]: T&C's Apply
+                      - paragraph [ref=e1061]: Your Outstation Cabs Made More Comfortable
+                      - paragraph [ref=e1063]: with New Features!
+                    - generic [ref=e1066]: BOOK NOW
+                  - generic [ref=e1069] [cursor=pointer]:
+                    - generic [ref=e1073]:
+                      - paragraph [ref=e1075]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1076]: T&C's Apply
+                      - paragraph [ref=e1077]: "LIVE NOW: Sale by AirAsia"
+                      - paragraph [ref=e1079]: with flights to Malaysia starting @ ₹7,768* & more.
+                    - generic [ref=e1082]: Book Now
+                - generic [ref=e1083]:
+                  - generic [ref=e1086] [cursor=pointer]:
+                    - generic [ref=e1090]:
+                      - paragraph [ref=e1092]:
+                        - text: DOM FLIGHTS
+                        - generic [ref=e1093]: T&C's Apply
+                      - paragraph [ref=e1094]: Meals for Your Flights @ up to 20% Lower Prices!
+                      - paragraph [ref=e1096]: Now book your meal in advance & save BIG bucks on your journey.
+                    - generic [ref=e1099]: Book Now
+                  - generic [ref=e1102] [cursor=pointer]:
+                    - generic [ref=e1106]:
+                      - paragraph [ref=e1108]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1109]: T&C's Apply
+                      - paragraph [ref=e1110]: "NOW LIVE: Up to 50% OFF*"
+                      - paragraph [ref=e1112]: on Select* Flight Fares with AirAsia.
+                    - generic [ref=e1115]: Book Now
+                - generic [ref=e1116]:
+                  - generic [ref=e1119] [cursor=pointer]:
+                    - generic [ref=e1123]:
+                      - paragraph [ref=e1125]:
+                        - text: BUS
+                        - generic [ref=e1126]: T&C's Apply
+                      - paragraph [ref=e1127]: Grab FLAT 8% OFF* on Buses
+                      - paragraph [ref=e1129]: Karnataka, Andhra Pradesh & more
+                    - generic [ref=e1131]:
+                      - generic [ref=e1132]: "Code: MMTSOUTH"
+                      - generic [ref=e1133]: BOOK NOW
+                  - generic [ref=e1136] [cursor=pointer]:
+                    - generic [ref=e1140]:
+                      - paragraph [ref=e1142]:
+                        - text: BUS
+                        - generic [ref=e1143]: T&C's Apply
+                      - paragraph [ref=e1144]: "#TicketsToHappiness: Grab Up to 10% OFF* on Bus Bo..."
+                      - paragraph [ref=e1146]: Hop aboard & save BIG.
+                    - generic [ref=e1148]:
+                      - generic [ref=e1149]: "Code: MEGABUS"
+                      - generic [ref=e1150]: BOOK NOW
+                - generic [ref=e1151]:
+                  - generic [ref=e1154] [cursor=pointer]:
+                    - generic [ref=e1158]:
+                      - paragraph [ref=e1160]:
+                        - generic [ref=e1161]: T&C's Apply
+                      - paragraph [ref=e1162]: "NEW: Sell Your Extra Foreign Currency Notes!"
+                      - paragraph [ref=e1164]: Avail best market rates, doorstep pick up & more benefits.
+                    - generic [ref=e1167]: Explore Now
+                  - generic [ref=e1170] [cursor=pointer]:
+                    - generic [ref=e1174]:
+                      - paragraph [ref=e1176]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1177]: T&C's Apply
+                      - paragraph [ref=e1178]: "AVAIL: Up to 8% OFF* + Interest-free EMI on"
+                      - paragraph [ref=e1180]: domestic & international flights.
+                    - generic [ref=e1183]: Book Now
+                - generic [ref=e1184]:
+                  - generic [ref=e1187] [cursor=pointer]:
+                    - generic [ref=e1191]:
+                      - paragraph [ref=e1193]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1194]: T&C's Apply
+                      - paragraph [ref=e1195]: "Big Savings for You:"
+                      - paragraph [ref=e1197]: Grab Up to ₹7500 OFF* on Flights.
+                    - generic [ref=e1200]: Book Now
+                  - generic [ref=e1203] [cursor=pointer]:
+                    - generic [ref=e1207]:
+                      - paragraph [ref=e1209]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1210]: T&C's Apply
+                      - paragraph [ref=e1211]: Get Live Assistance from Travel Experts
+                      - paragraph [ref=e1213]: for international flight bookings. Call us @ 0124 4781869.
+                    - generic [ref=e1216]: Explore Now
+                - generic [ref=e1217]:
+                  - generic [ref=e1220] [cursor=pointer]:
+                    - generic [ref=e1224]:
+                      - paragraph [ref=e1226]:
+                        - text: CABS
+                        - generic [ref=e1227]: T&C's Apply
+                      - paragraph [ref=e1228]: Up to ₹500 OFF* on Outstation Cabs!
+                      - paragraph [ref=e1230]: Grab this special offer for your next road trip.
+                    - generic [ref=e1233]: BOOK NOW
+                  - generic [ref=e1236] [cursor=pointer]:
+                    - generic [ref=e1240]:
+                      - paragraph [ref=e1242]:
+                        - text: INTL HOTELS
+                        - generic [ref=e1243]: T&C's Apply
+                      - paragraph [ref=e1244]: Up to 15% OFF*
+                      - paragraph [ref=e1246]: on Hotels & Holidays.
+                    - generic [ref=e1249]: Book Now
+                - generic [ref=e1250]:
+                  - generic [ref=e1253] [cursor=pointer]:
+                    - generic [ref=e1257]:
+                      - paragraph [ref=e1259]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1260]: T&C's Apply
+                      - paragraph [ref=e1261]: Save Big on Your Next Getaway with Up to 15% OFF*
+                      - paragraph [ref=e1263]: on Flights, Hotels in India & Buses.
+                    - generic [ref=e1266]: View Details
+                  - generic [ref=e1269] [cursor=pointer]:
+                    - generic [ref=e1273]:
+                      - paragraph [ref=e1275]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1276]: T&C's Apply
+                      - paragraph [ref=e1277]: "NOW FLYING: New Flights by AirAsia"
+                      - paragraph [ref=e1279]: to Multiple* Destinations.
+                    - generic [ref=e1282]: Book Now
+                - generic [ref=e1283]:
+                  - generic [ref=e1286] [cursor=pointer]:
+                    - generic [ref=e1290]:
+                      - paragraph [ref=e1292]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1293]: T&C's Apply
+                      - paragraph [ref=e1294]: "NOW FLYING: New Flights by Akasa Air"
+                      - paragraph [ref=e1296]: Connecting Bengaluru and Navi Mumbai.
+                    - generic [ref=e1299]: Book Now
+                  - generic [ref=e1302] [cursor=pointer]:
+                    - generic [ref=e1306]:
+                      - paragraph [ref=e1308]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1309]: T&C's Apply
+                      - paragraph [ref=e1310]: "NOW FLYING: New Flights by Akasa Air"
+                      - paragraph [ref=e1312]: Connecting Navi Mumbai and Varanasi.
+                    - generic [ref=e1315]: Book Now
+                - generic [ref=e1316]:
+                  - generic [ref=e1319] [cursor=pointer]:
+                    - generic [ref=e1323]:
+                      - paragraph [ref=e1325]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1326]: T&C's Apply
+                      - paragraph [ref=e1327]: "LIVE NOW: Sale by Kuwait Airways"
+                      - paragraph [ref=e1329]: with Up to 15% OFF* on Fares.
+                    - generic [ref=e1332]: Book Now
+                  - generic [ref=e1335] [cursor=pointer]:
+                    - generic [ref=e1339]:
+                      - paragraph [ref=e1341]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1342]: T&C's Apply
+                      - paragraph [ref=e1343]: "LIVE NOW: Offer by Air Cambodia"
+                      - paragraph [ref=e1345]: with Fares Starting @ ₹11,400*.
+                    - generic [ref=e1348]: Book Now
+                - generic [ref=e1349]:
+                  - generic [ref=e1352] [cursor=pointer]:
+                    - generic [ref=e1356]:
+                      - paragraph [ref=e1358]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1359]: T&C's Apply
+                      - paragraph [ref=e1360]: "LIVE NOW: Sale on Flights by Scoot"
+                      - paragraph [ref=e1362]: with Fares Starting @ ₹6,000*.
+                    - generic [ref=e1365]: Book Now
+                  - generic [ref=e1368] [cursor=pointer]:
+                    - generic [ref=e1372]:
+                      - paragraph [ref=e1374]:
+                        - text: DOM FLIGHTS
+                        - generic [ref=e1375]: T&C's Apply
+                      - paragraph [ref=e1376]: "INTRODUCING: New Flights by SpiceJet"
+                      - paragraph [ref=e1378]: Connecting Delhi and Ludhiana.
+                    - generic [ref=e1381]: Book Now
+                - generic [ref=e1382]:
+                  - generic [ref=e1385] [cursor=pointer]:
+                    - generic [ref=e1389]:
+                      - paragraph [ref=e1391]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1392]: T&C's Apply
+                      - paragraph [ref=e1393]: Apply for MakeMyTrip ICICI Bank Credit Card Now.
+                      - paragraph [ref=e1395]: Enjoy 6%* extra savings, every time you travel.
+                    - generic [ref=e1398]: Book Now
+                  - generic [ref=e1401] [cursor=pointer]:
+                    - generic [ref=e1405]:
+                      - paragraph [ref=e1407]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1408]: T&C's Apply
+                      - paragraph [ref=e1409]: "NOW FLYING: New Flights by Akasa Air"
+                      - paragraph [ref=e1411]: Connecting Calicut and Jeddah.
+                    - generic [ref=e1414]: Book Now
+                - generic [ref=e1415]:
+                  - generic [ref=e1418] [cursor=pointer]:
+                    - generic [ref=e1422]:
+                      - paragraph [ref=e1424]: INTL FLIGHTS
+                      - paragraph [ref=e1425]: "INTRODUCING: New Flights by Air India Express"
+                      - paragraph [ref=e1427]: Connecting Select* Destinations.
+                    - generic [ref=e1430]: Explore Now
+                  - generic [ref=e1433] [cursor=pointer]:
+                    - generic [ref=e1437]:
+                      - paragraph [ref=e1439]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1440]: T&C's Apply
+                      - paragraph [ref=e1441]: "Savings on Baggage with AirAsia:"
+                      - paragraph [ref=e1443]: Pre-book 20 kg Extra Baggage at Just ₹500*.
+                    - generic [ref=e1446]: Book Now
+                - generic [ref=e1447]:
+                  - generic [ref=e1450] [cursor=pointer]:
+                    - generic [ref=e1454]:
+                      - paragraph [ref=e1456]:
+                        - text: DOM HOTELS
+                        - generic [ref=e1457]: T&C's Apply
+                      - paragraph [ref=e1458]: "MAKE YOUR WEEKEND GETAWAYS UNFORGETTABLE:"
+                      - paragraph [ref=e1460]: Book Bloom Hotels with Free* Breakfast + room upgrades for weekend stays.
+                    - generic [ref=e1463]: BOOK NOW
+                  - generic [ref=e1466] [cursor=pointer]:
+                    - generic [ref=e1470]:
+                      - paragraph [ref=e1472]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1473]: T&C's Apply
+                      - paragraph [ref=e1474]: Grab up to 15% OFF*
+                      - paragraph [ref=e1476]: on flights, hotels, homestays & bus.
+                    - generic [ref=e1479]: View Details
+                - generic [ref=e1480]:
+                  - generic [ref=e1483] [cursor=pointer]:
+                    - generic [ref=e1487]:
+                      - paragraph [ref=e1489]:
+                        - text: INTL HOTELS
+                        - generic [ref=e1490]: T&C's Apply
+                      - paragraph [ref=e1491]: Grab upto 15% OFF* on International Hotels
+                      - paragraph [ref=e1493]: and book a comfy stay with big savings!
+                    - generic [ref=e1496]: View Details
+                  - generic [ref=e1499] [cursor=pointer]:
+                    - generic [ref=e1503]:
+                      - paragraph [ref=e1505]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1506]: T&C's Apply
+                      - paragraph [ref=e1507]: Grab FLAT 8% OFF* on International Flights
+                      - paragraph [ref=e1509]: and save BIG on your next international trip!
+                    - generic [ref=e1512]: View Details
+                - generic [ref=e1513]:
+                  - generic [ref=e1516] [cursor=pointer]:
+                    - generic [ref=e1520]:
+                      - paragraph [ref=e1522]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1523]: T&C's Apply
+                      - paragraph [ref=e1524]: Grab FLAT 20% OFF* on Business Class for Int’l Fli...
+                      - paragraph [ref=e1526]: and save BIG on your next trip!
+                    - generic [ref=e1529]: View Details
+                  - generic [ref=e1532] [cursor=pointer]:
+                    - generic [ref=e1536]:
+                      - paragraph [ref=e1538]:
+                        - text: DOM FLIGHTS
+                        - generic [ref=e1539]: T&C's Apply
+                      - paragraph [ref=e1540]: "#SUPERSAVER OFFER: Up to 15% OFF*"
+                      - paragraph [ref=e1542]: on domestic flights & hotels.
+                    - generic [ref=e1545]: Book Now
+                - generic [ref=e1546]:
+                  - generic [ref=e1549] [cursor=pointer]:
+                    - generic [ref=e1553]:
+                      - paragraph [ref=e1555]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1556]: T&C's Apply
+                      - paragraph [ref=e1557]: Grab Up to 35% OFF* on
+                      - paragraph [ref=e1559]: domestic + international flights, hotels & holiday packages for a memorable trip!
+                    - generic [ref=e1562]: View Details
+                  - generic [ref=e1565] [cursor=pointer]:
+                    - generic [ref=e1569]:
+                      - paragraph [ref=e1571]:
+                        - text: HOLIDAYS
+                        - generic [ref=e1572]: T&C's Apply
+                      - paragraph [ref=e1573]: "#EldersFirst Travel Experiences are Here!"
+                      - paragraph [ref=e1575]: Explore senior-friendly packages with on-trip medical support & more.
+                    - generic [ref=e1578]: Book Now
+                - generic [ref=e1579]:
+                  - generic [ref=e1582] [cursor=pointer]:
+                    - generic [ref=e1586]:
+                      - paragraph [ref=e1588]:
+                        - text: HOLIDAYS
+                        - generic [ref=e1589]: T&C's Apply
+                      - paragraph [ref=e1590]: Connect with Your Spiritual Roots.
+                      - paragraph [ref=e1592]: Explore MyPilgrimage Packages & embark on India’s sacred journeys.
+                    - generic [ref=e1595]: Book Now
+                  - generic [ref=e1598] [cursor=pointer]:
+                    - generic [ref=e1602]:
+                      - paragraph [ref=e1604]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1605]: T&C's Apply
+                      - paragraph [ref=e1606]: BIG SAVINGS ON YOUR NEXT TRIP
+                      - paragraph [ref=e1608]: Grab Upto 10% OFF* on domestic and international flights.
+                    - generic [ref=e1611]: View Details
+                - generic [ref=e1612]:
+                  - generic [ref=e1615] [cursor=pointer]:
+                    - generic [ref=e1619]:
+                      - paragraph [ref=e1621]:
+                        - text: BUS
+                        - generic [ref=e1622]: T&C's Apply
+                      - paragraph [ref=e1623]: FLAT 10% OFF* on Primo Bus Bookings
+                      - paragraph [ref=e1625]: "Code: PRIMODAY"
+                    - generic [ref=e1628]: BOOK NOW
+                  - generic [ref=e1631] [cursor=pointer]:
+                    - generic [ref=e1635]:
+                      - paragraph [ref=e1637]:
+                        - text: INTL FLIGHTS
+                        - generic [ref=e1638]: T&C's Apply
+                      - paragraph [ref=e1639]: Grab up to 15% OFF*
+                      - paragraph [ref=e1641]: on domestic & international flights + hotels, outstation cabs & buses.
+                    - generic [ref=e1642]:
+                      - generic [ref=e1643]: Offer starts on 12 Feb 2026
+                      - generic [ref=e1645]: View Details
+                - generic [ref=e1646]:
+                  - generic [ref=e1649] [cursor=pointer]:
+                    - generic [ref=e1653]:
+                      - paragraph [ref=e1655]:
+                        - text: BUS
+                        - generic [ref=e1656]: T&C's Apply
+                      - paragraph [ref=e1657]: Introducing TripAssured on Bus Bookings!
+                      - paragraph [ref=e1659]: Enjoy Guaranteed Departures or Get a 2X Refund.
+                    - generic [ref=e1662]: BOOK NOW
+                  - generic [ref=e1665] [cursor=pointer]:
+                    - generic [ref=e1669]:
+                      - paragraph [ref=e1671]:
+                        - text: BUS
+                        - generic [ref=e1672]: T&C's Apply
+                      - paragraph [ref=e1673]: "MMTBLACK SPECIAL: FLAT ₹150 OFF*"
+                      - paragraph [ref=e1675]: on Bus Tickets.
+                    - generic [ref=e1677]:
+                      - generic [ref=e1678]: "Code: MMTBLACK"
+                      - generic [ref=e1679]: BOOK NOW
+                - generic [ref=e1680]:
+                  - generic [ref=e1683] [cursor=pointer]:
+                    - generic [ref=e1687]:
+                      - paragraph [ref=e1689]:
+                        - text: BUS
+                        - generic [ref=e1690]: T&C's Apply
+                      - paragraph [ref=e1691]: "FLASH DEAL: FLAT ₹100 OFF* on Bus Bookings"
+                      - paragraph [ref=e1693]: on Buses
+                    - generic [ref=e1695]:
+                      - generic [ref=e1696]: "Code: FLASH100"
+                      - generic [ref=e1697]: BOOK NOW
+                  - generic [ref=e1700] [cursor=pointer]:
+                    - generic [ref=e1704]:
+                      - paragraph [ref=e1706]:
+                        - text: DOM FLIGHTS
+                        - generic [ref=e1707]: T&C's Apply
+                      - paragraph [ref=e1708]: "For You: Group Booking Benefits on Flights"
+                      - paragraph [ref=e1710]: in India! Book 9+ flight tickets together & save more.
+                    - generic [ref=e1713]: Book Now
+                - generic [ref=e1714]:
+                  - generic [ref=e1717] [cursor=pointer]:
+                    - generic [ref=e1721]:
+                      - paragraph [ref=e1723]:
+                        - text: BUS
+                        - generic [ref=e1724]: T&C's Apply
+                      - paragraph [ref=e1725]: Save up to ₹250*
+                      - paragraph [ref=e1727]: with our Bus-Train Pass.
+                    - generic [ref=e1730]: BOOK NOW
+                  - generic [ref=e1733] [cursor=pointer]:
+                    - generic [ref=e1737]:
+                      - paragraph [ref=e1739]:
+                        - text: ACTIVITIES
+                        - generic [ref=e1740]: T&C's Apply
+                      - paragraph [ref=e1741]: Get up to 25% off* on tours & attractions.
+                      - paragraph [ref=e1743]: "Code: WELCOME"
+                    - generic [ref=e1746]: Book Now
+                - generic [ref=e1750] [cursor=pointer]:
+                  - generic [ref=e1754]:
+                    - paragraph [ref=e1756]:
+                      - text: INTL FLIGHTS
+                      - generic [ref=e1757]: T&C's Apply
+                    - paragraph [ref=e1758]: Up to 15% Instant discount
+                    - paragraph [ref=e1760]: on flights, stays & holiday packages for your trips in India & abroad!
+                  - generic [ref=e1763]: Book Now
+              - button "Next" [ref=e1764] [cursor=pointer]
+          - generic [ref=e1766]:
+            - heading "Experience Flying with our Airline Partners" [level=2] [ref=e1767]
+            - generic [ref=e1768]:
+              - img [ref=e1770] [cursor=pointer]
+              - img [ref=e1772] [cursor=pointer]
+              - img [ref=e1774] [cursor=pointer]
+          - generic [ref=e1775]:
+            - paragraph [ref=e1777]: Flagship Hotel Stores on MakeMyTrip
+            - list [ref=e1779]:
+              - generic [ref=e1782] [cursor=pointer]: Sterling Hotels & Resorts
+              - generic [ref=e1786] [cursor=pointer]: Hyatt Hotels
+              - generic [ref=e1790] [cursor=pointer]: Royal Orchid Hotels
+          - generic [ref=e1794]:
+            - button "Previous" [ref=e1795] [cursor=pointer]
+            - generic [ref=e1797]:
+              - paragraph [ref=e1803] [cursor=pointer]: Check out our Indian Travel Trends Report. Our trends report 2023-24 is out now. Read on for top travel insights.
+              - paragraph [ref=e1809] [cursor=pointer]: Finding Indian Food just got easier! Use newly launched filters to find Indian food during International travel
+              - paragraph [ref=e1815] [cursor=pointer]:
+                - text: Planning to book an international flight?
+                - text: Check Travel Guidelines
+            - button "Next" [ref=e1821] [cursor=pointer]
+          - generic [ref=e1825] [cursor=pointer]:
+            - generic [ref=e1826]:
+              - img [ref=e1827]
+              - img [ref=e1829]
+            - img "Ads by MMT" [ref=e1830]
+          - generic [ref=e1832]:
+            - generic [ref=e1833]:
+              - generic [ref=e1836]:
+                - heading "Download App Now !" [level=3] [ref=e1837]
+                - paragraph [ref=e1838]: Use code WELCOMEMMT and get FLAT 12% OFF* on your first domestic flight booking
+              - generic [ref=e1840]:
+                - paragraph [ref=e1842]:
+                  - img [ref=e1845]
+                  - generic [ref=e1846]: +91 —
+                - textbox "Enter Mobile number" [ref=e1847]:
+                  - /placeholder: "Enter Mobile number "
+                - button "GET APP LINK" [ref=e1848] [cursor=pointer]
+            - img "QR Scanner" [ref=e1857]
+          - generic [ref=e1858]:
+            - paragraph [ref=e1861]: Handpicked Collections for You
+            - generic [ref=e1863]:
+              - button "Previous" [ref=e1864] [cursor=pointer]
+              - generic [ref=e1866]:
+                - generic [ref=e1872] [cursor=pointer]:
+                  - generic [ref=e1873]: Top 8
+                  - paragraph [ref=e1874]: Stays in & Around Delhi for a Weekend Getaway
+                - generic [ref=e1881] [cursor=pointer]:
+                  - generic [ref=e1882]: Top 8
+                  - paragraph [ref=e1883]: Stays in & Around Mumbai for a Weekend Getaway
+                - generic [ref=e1890] [cursor=pointer]:
+                  - generic [ref=e1891]: Top 9
+                  - paragraph [ref=e1892]: Stays in & Around Bangalore for a Weekend Getaway
+                - generic [ref=e1899] [cursor=pointer]:
+                  - generic [ref=e1900]: Top 11
+                  - paragraph [ref=e1901]: Beach Destinations
+                - generic [ref=e1908] [cursor=pointer]:
+                  - generic [ref=e1909]: Top 11
+                  - paragraph [ref=e1910]: Weekend Getaways
+                - generic [ref=e1917] [cursor=pointer]:
+                  - generic [ref=e1918]: Top 11
+                  - paragraph [ref=e1919]: Hill Stations
+                - generic [ref=e1926] [cursor=pointer]:
+                  - generic [ref=e1927]: Top 11
+                  - paragraph [ref=e1928]: Adventure Destinations
+                - generic [ref=e1935] [cursor=pointer]:
+                  - generic [ref=e1936]: Top 11
+                  - paragraph [ref=e1937]: Heritage Destinations
+                - generic [ref=e1944] [cursor=pointer]:
+                  - generic [ref=e1945]: Top 11
+                  - paragraph [ref=e1946]: Pilgrimage Destinations
+                - generic [ref=e1953] [cursor=pointer]:
+                  - generic [ref=e1954]: Top 11
+                  - paragraph [ref=e1955]: Relaxation Destinations
+              - button "Next" [ref=e1957] [cursor=pointer]
+          - generic [ref=e1958]:
+            - paragraph [ref=e1961]: Unlock Lesser-Known Wonders of India
+            - generic [ref=e1963]:
+              - button "Previous" [ref=e1964] [cursor=pointer]
+              - generic [ref=e1966]:
+                - generic [ref=e1971] [cursor=pointer]:
+                  - paragraph [ref=e1973]: Shimla's Best Kept Secret
+                  - img "Shimla's Best Kept Secret" [ref=e1975]
+                - generic [ref=e1980] [cursor=pointer]:
+                  - paragraph [ref=e1982]: Tamil Nadu's Charming Hill Town
+                  - img "Tamil Nadu's Charming Hill Town" [ref=e1984]
+                - generic [ref=e1989] [cursor=pointer]:
+                  - paragraph [ref=e1991]: Picturesque Gateway to Himalayas
+                  - img "Picturesque Gateway to Himalayas" [ref=e1993]
+                - generic [ref=e1998] [cursor=pointer]:
+                  - paragraph [ref=e2000]: Quaint Little Hill Station in Gujarat
+                  - img "Quaint Little Hill Station in Gujarat" [ref=e2002]
+                - generic [ref=e2007] [cursor=pointer]:
+                  - paragraph [ref=e2009]: A pleasant summer retreat and a snowy winter wonderland!
+                  - img "A pleasant summer retreat and a snowy winter wonderland!" [ref=e2011]
+                - generic [ref=e2016] [cursor=pointer]:
+                  - paragraph [ref=e2018]: Seaside Resort Village in West Bengal
+                  - img "Seaside Resort Village in West Bengal" [ref=e2020]
+                - generic [ref=e2025] [cursor=pointer]:
+                  - paragraph [ref=e2027]: Hidden Gem along Maharashtra's Coast
+                  - img [ref=e2029]
+                - generic [ref=e2034] [cursor=pointer]:
+                  - paragraph [ref=e2036]: Picture-Perfect Hill Station in Tamil Nadu
+                  - img [ref=e2038]
+                - generic [ref=e2043] [cursor=pointer]:
+                  - paragraph [ref=e2045]: Hill Retreat in Andhra Pradesh
+                  - img [ref=e2047]
+                - generic [ref=e2052] [cursor=pointer]:
+                  - paragraph [ref=e2054]: Nature Lover's Paradise in Gujarat
+                  - img [ref=e2056]
+                - generic [ref=e2061] [cursor=pointer]:
+                  - paragraph [ref=e2063]: Spiritual Coastal Town in Karnataka
+                  - img [ref=e2065]
+                - generic [ref=e2070] [cursor=pointer]:
+                  - paragraph [ref=e2072]: Queen of Satpura Pachmarhi
+                  - img [ref=e2074]
+                - generic [ref=e2079] [cursor=pointer]:
+                  - paragraph [ref=e2081]: A Town with Beaches and Hills!
+                  - img [ref=e2083]
+                - generic [ref=e2088] [cursor=pointer]:
+                  - paragraph [ref=e2090]: Known as the 'Goa of Malvan
+                  - img [ref=e2092]
+                - generic [ref=e2097] [cursor=pointer]:
+                  - paragraph [ref=e2099]: A Green Getaway in Karnataka
+                  - img [ref=e2101]
+                - generic [ref=e2106] [cursor=pointer]:
+                  - paragraph [ref=e2108]: Idyllic Hill Station in Kerala
+                  - img [ref=e2110]
+                - generic [ref=e2115] [cursor=pointer]:
+                  - paragraph [ref=e2117]: Wildlife Hotspot in Maharashtra
+                  - img [ref=e2119]
+                - generic [ref=e2124] [cursor=pointer]:
+                  - paragraph [ref=e2126]: Erstwhile Abode of Rulers in Andhra Pradesh
+                  - img [ref=e2128]
+                - generic [ref=e2133] [cursor=pointer]:
+                  - paragraph [ref=e2135]: Hidden Gem in the Sahyadri Ranges
+                  - img [ref=e2137]
+                - generic [ref=e2142] [cursor=pointer]:
+                  - paragraph [ref=e2144]: Striking Hill Resort near Shimla
+                  - img [ref=e2146]
+                - generic [ref=e2151] [cursor=pointer]:
+                  - paragraph [ref=e2153]: A Spiritual Getaway in Andhra Pradesh
+                  - img [ref=e2155]
+                - generic [ref=e2160] [cursor=pointer]:
+                  - paragraph [ref=e2162]: Ancient City in Tamil Nadu
+                  - img [ref=e2164]
+                - generic [ref=e2169] [cursor=pointer]:
+                  - paragraph [ref=e2171]: Beautiful Apple & Peach Orchards
+                  - img [ref=e2173]
+              - button "Next" [ref=e2174] [cursor=pointer]
+    - contentinfo [ref=e2175]:
+      - generic [ref=e2177]:
+        - paragraph [ref=e2178]: MakeMyTrip
+        - list [ref=e2179]:
+          - listitem [ref=e2180]: About Us,
+          - listitem [ref=e2181]: Investor Relations,
+          - listitem [ref=e2182]: Careers,
+          - listitem [ref=e2183]: Sustainability,
+          - listitem [ref=e2184]: MMT Foundation,
+          - listitem [ref=e2185]: Legal Notices,
+          - listitem [ref=e2186]: CSR Policy & Committee,
+          - listitem [ref=e2187]: myBiz for Corporate Travel,
+          - listitem [ref=e2188]: myPartner - Travel Agent Portal,
+          - listitem [ref=e2189]: List your hotel,
+          - listitem [ref=e2190]: Partners- Redbus,
+          - listitem [ref=e2191]: Partners- Goibibo,
+          - listitem [ref=e2192]: Advertise with Us,
+          - listitem [ref=e2193]: Holiday-Franchise,
+          - listitem [ref=e2194]: Partners- BookMyForex,
+          - listitem [ref=e2195]: RedBus Ferry Malaysia,
+          - listitem [ref=e2196]: RedBus Ferry Singapore,
+          - listitem [ref=e2197]: redBus Vietnam,
+          - listitem [ref=e2198]: redBus Cambodia,
+          - listitem [ref=e2199]: redBus Columbia,
+          - listitem [ref=e2200]: redBus Peru,
+          - listitem [ref=e2201]: redBus Indonesia,
+          - listitem [ref=e2202]: Things to Do in Malaysia,
+          - listitem [ref=e2203]: Things to Do in Singapore
+        - paragraph [ref=e2204]: Quick Links
+        - list [ref=e2205]:
+          - listitem [ref=e2206]: Delhi Chennai Flights,
+          - listitem [ref=e2207]: Delhi Mumbai Flights,
+          - listitem [ref=e2208]: Delhi Goa Flights,
+          - listitem [ref=e2209]: Chennai Mumbai flights,
+          - listitem [ref=e2210]: Mumbai Hyderabad flights,
+          - listitem [ref=e2211]: Kolkata to Rupsi Flights,
+          - listitem [ref=e2212]: Rupsi to Guwahati Flights,
+          - listitem [ref=e2213]: Pasighat to Guwahati Flights,
+          - listitem [ref=e2214]: Delhi to Khajuraho Flights,
+          - listitem [ref=e2215]: Cochin to Agatti Island Flights,
+          - listitem [ref=e2216]: Hotels in Delhi,
+          - listitem [ref=e2217]: Hotels in Mumbai,
+          - listitem [ref=e2218]: Hotels In Goa,
+          - listitem [ref=e2219]: Hotels In Jaipur,
+          - listitem [ref=e2220]: Hotels In Ooty,
+          - listitem [ref=e2221]: Hotels In Udaipur,
+          - listitem [ref=e2222]: Hotels in Puri,
+          - listitem [ref=e2223]: Hotels In North Goa,
+          - listitem [ref=e2224]: Hotels In Rishikesh,
+          - listitem [ref=e2225]: Honeymoon Packages,
+          - listitem [ref=e2226]: Kerala Packages,
+          - listitem [ref=e2227]: Kashmir Packages,
+          - listitem [ref=e2228]: Ladakh Packages,
+          - listitem [ref=e2229]: Goa Packages,
+          - listitem [ref=e2230]: Thailand Packages,
+          - listitem [ref=e2231]: Sri Lanka Visa,
+          - listitem [ref=e2232]: Thailand Visa,
+          - listitem [ref=e2233]: Explore Goa,
+          - listitem [ref=e2234]: Explore Manali,
+          - listitem [ref=e2235]: Explore Shimla,
+          - listitem [ref=e2236]: Explore Jaipur,
+          - listitem [ref=e2237]: Explore Srinagar
+        - paragraph [ref=e2238]: About the Site
+        - list [ref=e2239]:
+          - listitem [ref=e2240]: Customer Support,
+          - listitem [ref=e2241]: Payment Security,
+          - listitem [ref=e2242]: Privacy Policy,
+          - listitem [ref=e2243]: Cookie Policy,
+          - listitem [ref=e2244]: User Agreement,
+          - listitem [ref=e2245]: Terms of Service,
+          - listitem [ref=e2246]: Franchise Offices,
+          - listitem [ref=e2247]: Make A Payment,
+          - listitem [ref=e2248]: Work From Home,
+          - listitem [ref=e2249]: Escalation Channel,
+          - listitem [ref=e2250]: Report Security Issues
+        - paragraph [ref=e2251]: Important Links
+        - list [ref=e2252]:
+          - listitem [ref=e2253]: Cheap Flights,
+          - listitem [ref=e2254]: Flight Status,
+          - listitem [ref=e2255]: Kumbh Mela,
+          - listitem [ref=e2256]: Domestic Airlines,
+          - listitem [ref=e2257]: International Airlines,
+          - listitem [ref=e2258]: Indigo,
+          - listitem [ref=e2259]: Spicejet,
+          - listitem [ref=e2260]: Air Asia,
+          - listitem [ref=e2261]: Air India,
+          - listitem [ref=e2262]: Indian Railways,
+          - listitem [ref=e2263]: Trip Ideas,
+          - listitem [ref=e2264]: Beaches,
+          - listitem [ref=e2265]: Honeymoon Destinations,
+          - listitem [ref=e2266]: Romantic Destinations,
+          - listitem [ref=e2267]: Popular Destinations,
+          - listitem [ref=e2268]: Resorts In Udaipur,
+          - listitem [ref=e2269]: Resorts In Munnar,
+          - listitem [ref=e2270]: Villas In Lonavala,
+          - listitem [ref=e2271]: Hotels in Thailand,
+          - listitem [ref=e2272]: Villas In Goa,
+          - listitem [ref=e2273]: Domestic Flight Offers,
+          - listitem [ref=e2274]: International Flight Offers,
+          - listitem [ref=e2275]: UAE Flight Offers,
+          - listitem [ref=e2276]: USA,
+          - listitem [ref=e2277]: UAE,
+          - listitem [ref=e2278]: Saudi Arabia,
+          - listitem [ref=e2279]: UK,
+          - listitem [ref=e2280]: Oman
+        - paragraph [ref=e2281]: Corporate Travel
+        - list [ref=e2282]:
+          - listitem [ref=e2283]: Business Travel,
+          - listitem [ref=e2284]: Corporate Travel,
+          - listitem [ref=e2285]: Corporate Travel Management,
+          - listitem [ref=e2286]: Corporate Travel Solution,
+          - listitem [ref=e2287]: Corporate Hotel Booking,
+          - listitem [ref=e2288]: Corporate Flight Booking,
+          - listitem [ref=e2289]: Expense Management,
+          - listitem [ref=e2290]: Corporate Expense Management,
+          - listitem [ref=e2291]: GST on Hotel Rooms,
+          - listitem [ref=e2292]: GST on Flight Tickets,
+          - listitem [ref=e2293]: Business Travel for SME,
+          - listitem [ref=e2294]: GST Invoice for International flights,
+          - listitem [ref=e2295]: GST Invoice for Bus,
+          - listitem [ref=e2296]: GST on Train Tickets,
+          - listitem [ref=e2297]: T&E (Travel & Expense),
+          - listitem [ref=e2298]: myBiz - Best Business Travel Platform,
+          - listitem [ref=e2299]: GST Invoice for Corporate Travel,
+          - listitem [ref=e2300]: myBiz for Small Business,
+          - listitem [ref=e2301]: Free cancellation on International Flights
+        - paragraph [ref=e2302]: Product Offering
+        - list [ref=e2303]:
+          - listitem [ref=e2304]: Flights,
+          - listitem [ref=e2305]: International Flights,
+          - listitem [ref=e2306]: Charter Flights,
+          - listitem [ref=e2307]: Hotels,
+          - listitem [ref=e2308]: International Hotels,
+          - listitem [ref=e2309]: Apply Visa Online,
+          - listitem [ref=e2310]: Homestays and Villas,
+          - listitem [ref=e2311]: Activities,
+          - listitem [ref=e2312]: Holidays In India,
+          - listitem [ref=e2313]: International Holidays,
+          - listitem [ref=e2314]: Book Hotels From UAE,
+          - listitem [ref=e2315]: Book Online Cabs,
+          - listitem [ref=e2316]: Book Bus Tickets,
+          - listitem [ref=e2317]: Book Train Tickets,
+          - listitem [ref=e2318]: Cheap Tickets to India,
+          - listitem [ref=e2319]: Book Flights From US,
+          - listitem [ref=e2320]: Book Flights From UAE,
+          - listitem [ref=e2321]: Trip Planner,
+          - listitem [ref=e2322]: Forex Card,
+          - listitem [ref=e2323]: Buy Foreign Currency,
+          - listitem [ref=e2324]: Travel Insurance,
+          - listitem [ref=e2325]: Travel Insurance Thailand,
+          - listitem [ref=e2326]: Travel Insurance For UAE,
+          - listitem [ref=e2327]: Travel Insurance For Indonesia,
+          - listitem [ref=e2328]: Travel Insurance For Vietnam,
+          - listitem [ref=e2329]: Travel Insurance For Europe,
+          - listitem [ref=e2330]: Travel Insurance For USA,
+          - listitem [ref=e2331]: Travel Insurance for Singapore,
+          - listitem [ref=e2332]: Travel Insurance for Malaysia,
+          - listitem [ref=e2333]: Travel Insurance for Sri Lanka,
+          - listitem [ref=e2334]: Travel Insurance for United Kingdom,
+          - listitem [ref=e2335]: Travel Insurance for Canada,
+          - listitem [ref=e2336]: Gift Cards,
+          - listitem [ref=e2337]: Gift,
+          - listitem [ref=e2338]: Wedding Gift,
+          - listitem [ref=e2339]: Anniversary Gift,
+          - listitem [ref=e2340]: Birthday Gift,
+          - listitem [ref=e2341]: Diwali Gift,
+          - listitem [ref=e2342]: Valentines Gift,
+          - listitem [ref=e2343]: Farewell Gift,
+          - listitem [ref=e2344]: Christmas Gift,
+          - listitem [ref=e2345]: New Year Gift,
+          - listitem [ref=e2346]: Trip Ideas,
+          - listitem [ref=e2347]: Travel Blog,
+          - listitem [ref=e2348]: PNR Status,
+          - listitem [ref=e2349]: MakeMyTrip Advertising Solutions,
+          - listitem [ref=e2350]: One Way Cab,
+          - listitem [ref=e2351]: Travel Credit Card
+        - paragraph [ref=e2352]: Top Hotels in India
+        - list [ref=e2353]:
+          - listitem [ref=e2354]: Fairmont Jaipur,
+          - listitem [ref=e2355]: St Regis Goa,
+          - listitem [ref=e2356]: Six Senses Fort Barwara,
+          - listitem [ref=e2357]: W Goa,
+          - listitem [ref=e2358]: Grand Hyatt Goa,
+          - listitem [ref=e2359]: Shangri-La Bangalore,
+          - listitem [ref=e2360]: The St Regis Mumbai,
+          - listitem [ref=e2361]: Taj Rishikesh,
+          - listitem [ref=e2362]: Grand Hyatt Mumbai,
+          - listitem [ref=e2363]: Le Meridien Delhi,
+          - listitem [ref=e2364]: Rambagh Palace Jaipur,
+          - listitem [ref=e2365]: Leela Palace Chennai,
+          - listitem [ref=e2366]: The Leela Palace Udaipur,
+          - listitem [ref=e2367]: Taj Lake Palace Udaipur,
+          - listitem [ref=e2368]: Jw Marriott Chandigarh,
+          - listitem [ref=e2369]: Alila Diwa Goa,
+          - listitem [ref=e2370]: Le Meridien Goa,
+          - listitem [ref=e2371]: Taj Lands End Mumbai,
+          - listitem [ref=e2372]: Itc Grand Chola Chennai,
+          - listitem [ref=e2373]: Itc Maratha Mumbai,
+          - listitem [ref=e2374]: Oberoi Udaivilas,
+          - listitem [ref=e2375]: Jai Mahal Palace Jaipur,
+          - listitem [ref=e2376]: Taj Mahal Tower Mumbai,
+          - listitem [ref=e2377]: Marriott Suites Pune,
+          - listitem [ref=e2378]: Park Hyatt Chennai,
+          - listitem [ref=e2379]: The Leela Palace Jaipur,
+          - listitem [ref=e2380]: Jw Marriott Mumbai Sahar,
+          - listitem [ref=e2381]: Jw Marriott Mumbai Juhu,
+          - listitem [ref=e2382]: The Ritz Carlton Bengaluru,
+          - listitem [ref=e2383]: The Oberoi New Delhi,
+          - listitem [ref=e2384]: Taj Resort & Convention Centre Goa,
+          - listitem [ref=e2385]: Taj Bengal Kolkata,
+          - listitem [ref=e2386]: Taj Coromandel Chennai,
+          - listitem [ref=e2387]: The Oberoi Gurgaon,
+          - listitem [ref=e2388]: The Westin Goa,
+          - listitem [ref=e2389]: Jw Marriott Hotel Pune,
+          - listitem [ref=e2390]: The Leela Palace New Delhi,
+          - listitem [ref=e2391]: Taj West End Bengaluru,
+          - listitem [ref=e2392]: The Taj Mahal Palace Mumbai,
+          - listitem [ref=e2393]: Best Hotels in India
+        - paragraph [ref=e2394]: Top International hotels
+        - list [ref=e2395]:
+          - listitem [ref=e2396]: Adaaran Club Rannalhi,
+          - listitem [ref=e2397]: Marina Bay Sands Singapore,
+          - listitem [ref=e2398]: Coco Bodu Hithi,
+          - listitem [ref=e2399]: Taj Dubai,
+          - listitem [ref=e2400]: Atlantis Hotel Dubai,
+          - listitem [ref=e2401]: Amari Phuket,
+          - listitem [ref=e2402]: Jw Marriott Dubai,
+          - listitem [ref=e2403]: Armani Hotel Dubai,
+          - listitem [ref=e2404]: Grand Hyatt Dubai,
+          - listitem [ref=e2405]: Saii Lagoon Maldives,
+          - listitem [ref=e2406]: Gevora Hotel Dubai,
+          - listitem [ref=e2407]: Hyatt Regency Dubai,
+          - listitem [ref=e2408]: Pan Pacific Singapore,
+          - listitem [ref=e2409]: The Palm Dubai,
+          - listitem [ref=e2410]: Caesars Palace,
+          - listitem [ref=e2411]: Baiyoke Sky Hotel,
+          - listitem [ref=e2412]: Centara Pattaya Hotel,
+          - listitem [ref=e2413]: Embudu Village,
+          - listitem [ref=e2414]: Orchard Hotel Singapore,
+          - listitem [ref=e2415]: Reethi Beach Resort,
+          - listitem [ref=e2416]: Ambassador Hotel Bangkok,
+          - listitem [ref=e2417]: Dusit Thani Pattaya,
+          - listitem [ref=e2418]: Shangri La Singapore,
+          - listitem [ref=e2419]: Sunbeam Hotel Pattaya,
+          - listitem [ref=e2420]: Taj Samudra Colombo,
+          - listitem [ref=e2421]: Bangkok Palace Hotel,
+          - listitem [ref=e2422]: Hilton Pattaya,
+          - listitem [ref=e2423]: Novotel Phuket Resort,
+          - listitem [ref=e2424]: Taj Exotica Resort Maldives,
+          - listitem [ref=e2425]: Village Hotel Bugis,
+          - listitem [ref=e2426]: Avani Atrium Bangkok,
+          - listitem [ref=e2427]: The Plaza New York,
+          - listitem [ref=e2428]: Village Hotel Albert Court,
+          - listitem [ref=e2429]: Amari Pattaya
+        - paragraph [ref=e2430]: Visa Offerings
+        - list [ref=e2431]:
+          - listitem [ref=e2432]: Australia Visa,
+          - listitem [ref=e2433]: Austria Visa,
+          - listitem [ref=e2434]: Azerbaijan Visa,
+          - listitem [ref=e2435]: Bangladesh Visa,
+          - listitem [ref=e2436]: Bahrain Visa,
+          - listitem [ref=e2437]: Cambodia Visa,
+          - listitem [ref=e2438]: China Visa,
+          - listitem [ref=e2439]: Czech Republic Visa,
+          - listitem [ref=e2440]: Dubai - UAE Visa,
+          - listitem [ref=e2441]: Egypt Visa,
+          - listitem [ref=e2442]: Finland Visa,
+          - listitem [ref=e2443]: France Visa,
+          - listitem [ref=e2444]: Georgia Visa,
+          - listitem [ref=e2445]: Germany Visa,
+          - listitem [ref=e2446]: Greece Visa,
+          - listitem [ref=e2447]: Hong Kong Visa,
+          - listitem [ref=e2448]: Iceland Visa,
+          - listitem [ref=e2449]: Indonesia Visa,
+          - listitem [ref=e2450]: Ireland Visa,
+          - listitem [ref=e2451]: Italy Visa,
+          - listitem [ref=e2452]: Japan Visa,
+          - listitem [ref=e2453]: Kenya Visa,
+          - listitem [ref=e2454]: Malaysia Visa,
+          - listitem [ref=e2455]: Morocco Visa,
+          - listitem [ref=e2456]: Netherlands Visa,
+          - listitem [ref=e2457]: New Zealand Visa,
+          - listitem [ref=e2458]: Norway Visa,
+          - listitem [ref=e2459]: Portugal Visa,
+          - listitem [ref=e2460]: Qatar Visa,
+          - listitem [ref=e2461]: Russia Visa,
+          - listitem [ref=e2462]: Singapore Visa,
+          - listitem [ref=e2463]: South Africa Visa,
+          - listitem [ref=e2464]: South Korea Visa,
+          - listitem [ref=e2465]: Spain Visa,
+          - listitem [ref=e2466]: Sri Lanka Visa,
+          - listitem [ref=e2467]: Sweden Visa,
+          - listitem [ref=e2468]: Switzerland Visa,
+          - listitem [ref=e2469]: Thailand Visa,
+          - listitem [ref=e2470]: United Kingdom - UK Visa,
+          - listitem [ref=e2471]: Uzbekistan Visa,
+          - listitem [ref=e2472]: Vietnam Visa,
+          - listitem [ref=e2473]: Mongolia Visa,
+          - listitem [ref=e2474]: Zambia Visa
+        - paragraph [ref=e2475]: Book Hotels in India from Top Destinations
+        - list [ref=e2476]:
+          - listitem [ref=e2477]: Hotels in Jaipur,
+          - listitem [ref=e2478]: Hotels in Goa,
+          - listitem [ref=e2479]: Hotels in Delhi,
+          - listitem [ref=e2480]: Hotels in Udaipur,
+          - listitem [ref=e2481]: Hotels in Gurgaon,
+          - listitem [ref=e2482]: Hotels in Mumbai,
+          - listitem [ref=e2483]: Hotels in Bangalore,
+          - listitem [ref=e2484]: Hotels in Rishikesh,
+          - listitem [ref=e2485]: Hotels in Agra,
+          - listitem [ref=e2486]: Hotels in Chennai,
+          - listitem [ref=e2487]: Hotels in Kasauli,
+          - listitem [ref=e2488]: Hotels in Kolkata,
+          - listitem [ref=e2489]: Hotels in Pune,
+          - listitem [ref=e2490]: Hotels in Manali,
+          - listitem [ref=e2491]: Hotels in Lonavala,
+          - listitem [ref=e2492]: Hotels in Shimla,
+          - listitem [ref=e2493]: Hotels in Munnar,
+          - listitem [ref=e2494]: Hotels in Ayodhya,
+          - listitem [ref=e2495]: Hotels in Gulmarg,
+          - listitem [ref=e2496]: Hotels in Leh,
+          - listitem [ref=e2497]: Hotels in Hyderabad
+      - article [ref=e2501]:
+        - generic [ref=e2502]:
+          - heading "Why MakeMyTrip?" [level=2] [ref=e2503]
+          - generic [ref=e2506]: Established in 2000, MakeMyTrip has since positioned itself as one of the leading companies, providing great offers, competitive airfares, exclusive discounts, and a seamless online booking experience to many of its customers. The experience of booking your flight tickets, hotel stay, and holiday package through our desktop site or mobile app can be done with complete ease and no hassles at all. We also deliver amazing offers, such as Instant Discounts, Fare Calendar, MyRewardsProgram, MyWallet, and many more while updating them from time to time to better suit our customers’ evolving needs and demands.
+        - generic [ref=e2507]:
+          - heading "Booking Flights with MakeMyTrip" [level=2] [ref=e2508]
+          - generic [ref=e2511]: At MakeMyTrip, you can find the best of deals and cheap air tickets to any place you want by booking your tickets on our website or app. Being India’s leading website for hotel, flight, and holiday bookings, MakeMyTrip helps you book flight tickets that are affordable and customized to your convenience. With customer satisfaction being our ultimate goal, we also have a 24/7 dedicated helpline to cater to our customer’s queries and concerns. Serving over 5 million happy customers, we at MakeMyTrip are glad to fulfill the dreams of folks who need a quick and easy means to find air tickets. You can get a hold of the cheapest flight of your choice today while also enjoying the other available options for your travel needs with us.
+        - generic [ref=e2512]:
+          - heading "Domestic Flights with MakeMyTrip" [level=2] [ref=e2513]
+          - generic [ref=e2516]: MakeMyTrip is India's leading player for flight bookings. With the cheapest fare guarantee, experience great value at the lowest price. Instant notifications ensure current flight status, instant fare drops, amazing discounts, instant refunds and rebook options, price comparisons and many more interesting features.
+      - generic [ref=e2518]:
+        - generic [ref=e2519]:
+          - link [ref=e2520] [cursor=pointer]:
+            - /url: https://www.instagram.com/makemytrip/
+          - link [ref=e2522] [cursor=pointer]:
+            - /url: https://x.com/makemytrip
+          - link [ref=e2524] [cursor=pointer]:
+            - /url: https://in.linkedin.com/company/makemytrip.com?open=outside
+          - link [ref=e2526] [cursor=pointer]:
+            - /url: https://www.facebook.com/makemytrip/
+        - paragraph [ref=e2529]: © 2026 MAKEMYTRIP PVT. LTD.
+  - generic [ref=e2532] [cursor=pointer]:
+    - textbox "Where do you want to go" [ref=e2533]
+    - img "search" [ref=e2534]
+```

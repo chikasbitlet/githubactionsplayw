@@ -1,4 +1,5 @@
-import { test, expect } from '@playwright/test';
+const { test, expect } = require('@playwright/test');
+
 
 test('hooks and group', async ({ page }) => {
 

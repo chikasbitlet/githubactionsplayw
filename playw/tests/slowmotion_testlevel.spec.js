@@ -1,4 +1,5 @@
-import { test, expect, chromium } from '@playwright/test';
+const { test, expect } = require('@playwright/test');
+
 
 test('slowmotionTestlevel', async () => {
   // Launch browser with slow motion

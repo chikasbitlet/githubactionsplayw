@@ -1,4 +1,5 @@
 name: Playwright Automation Tests
+
 on:
   push:
     branches: [ main ]
@@ -23,12 +24,14 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        run: npm install
         working-directory: ./playw
+        run: npm install
 
       - name: Install Playwright browsers
+        working-directory: ./playw
         run: npx playwright install --with-deps
 
       - name: Run Playwright tests (non blocking)
+        working-directory: ./playw
         continue-on-error: true
         run: TEST_ENV=${{ github.event.inputs.environment }} npx playwright test

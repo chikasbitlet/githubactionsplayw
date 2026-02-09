@@ -30,4 +30,3 @@ jobs:
       - name: Run Playwright tests (non blocking)
         continue-on-error: true
         run: TEST_ENV=${{ github.event.inputs.environment }} npx playwright test
-
